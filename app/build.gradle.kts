@@ -16,8 +16,8 @@ android {
         targetSdk = 36
 
         // Поднимайте на каждый релиз: конвейер отклонит повтор versionCode.
-        versionCode = 2
-        versionName = "1.2.0"
+        versionCode = 3
+        versionName = "1.2.1"
     }
 
     signingConfigs {
