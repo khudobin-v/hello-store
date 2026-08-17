@@ -17,7 +17,7 @@ android {
 
         // Поднимайте на каждый релиз: конвейер отклонит повтор versionCode.
         versionCode = 2
-        versionName = "1.1.0"
+        versionName = "1.2.0"
     }
 
     signingConfigs {
